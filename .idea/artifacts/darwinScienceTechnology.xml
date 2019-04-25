@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="darwinScienceTechnology">
+    <output-path>$PROJECT_DIR$/out/artifacts/darwinScienceTechnology</output-path>
+    <root id="archive" name="darwinScienceTechnology.war" />
+  </artifact>
+</component>
