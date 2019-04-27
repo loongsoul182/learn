@@ -16,6 +16,7 @@ public class ProducTypeControl {
     @Autowired
     ProducTypeService producTypeService;
 
+
     @RequestMapping(value = "/insertProducType",method = RequestMethod.POST)
     public void insertProducType(ProducType productType){
         producTypeService.insertProducType(productType);
